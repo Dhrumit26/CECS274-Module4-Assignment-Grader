@@ -34,7 +34,7 @@ python main.py
 ```bash
   python download_submission.py
 ```
-## Run the grade_pa3.py to run against the test cases
+## Run the grade_module_4.py to run against the test cases
 ```bash
   python grade_module_4.py
 ```
