@@ -1,0 +1,5 @@
+codepost==0.3.2
+python-dotenv
+numpy
+pandas 
+openpyxl

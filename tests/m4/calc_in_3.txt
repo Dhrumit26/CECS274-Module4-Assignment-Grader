@@ -1,0 +1,16 @@
+1
+1
+epsilon18
+7.02
+Y
+alpha9
+-7.82
+Y
+beta3
+-10.0
+N
+2
+3
+((omega3/alpha9)/(epsilon18/beta3))
+Q
+Q
